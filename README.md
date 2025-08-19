@@ -1,7 +1,7 @@
-💻 Code whisperer by day, bug hunter by night.
-🚀 Frontend-first, full-stack when needed — React, TypeScript & Node.js are my tools of choice.
-🎯 Building clean, scalable apps (and occasionally breaking them to learn faster).
-☕ Fueled by coffee, curiosity, and the eternal quest for that one perfect commit.
+💻 Code whisperer by day, bug hunter by night. <br>
+🚀 Frontend-first, full-stack when needed — React, TypeScript & Node.js are my tools of choice. <br>
+🎯 Building clean, scalable apps (and occasionally breaking them to learn faster). <br>
+☕ Fueled by coffee, curiosity, and the eternal quest for that one perfect commit. <br>
 
 
 ## 🌐 Socials:
